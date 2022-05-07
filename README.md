@@ -1,0 +1,2 @@
+# blockr
+javascript website blocker
