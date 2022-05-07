@@ -6,6 +6,7 @@ A list of various block pages for your website blocker.
 1. Click the "code" button.
 2. On the bottom, click download zip.
 <br>
+
 **Install seperate file**
 1. Click on the file you want to download.
 2. Click the "raw" button.
